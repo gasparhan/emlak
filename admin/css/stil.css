@@ -1,0 +1,60 @@
+.font_8b{
+	font-family			 : Verdana; 
+	font-size			 : 0.70em; 
+	color				 : #FFFFFF; 
+	font-weight			 : normal; 
+	text-decoration		 : none;
+}
+
+.font_8s{
+	font-family: Tahoma,sans-serif;
+	font-size: 8pt;
+	color: #333333;
+	font-weight: normal;
+	text-decoration: none;
+}
+.font_8s a{
+	font-family: Tahoma,sans-serif;
+	font-size: 8pt;
+	color: #FF6600;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+
+.font_8g,
+.font_8g a{
+	font-family:Tahoma, sans-serif; 
+	font-size:8pt; 
+	color:#414141; 
+	font-weight:normal; 
+	text-decoration:none;
+	line-height:2.10em;
+}
+
+.divs{
+	padding:10px;
+	border:1px solid #ccc;
+	width:478px;
+	background-color:#f9f9f9;
+	margin-bottom:10px;
+}
+
+.FormStyle{
+	font-family: Tahoma,sans-serif; 
+	font-size: 0.75em; 
+	color: #333; 
+	background-color: #FFF; 
+	text-decoration: none; 
+	font-weight: normal ; 
+	border: #CCC 1px solid;
+}
+.ButtonStyle{
+	font-family: Tahoma,sans-serif; 
+	font-size: 0.71em; 
+	color: #333; 
+	background-color: #eee; 
+	text-decoration: none; 
+	font-weight: normal ; 
+	border: #CCC 1px solid;
+}

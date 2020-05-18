@@ -1,0 +1,121 @@
+.menu a, #menu a:hover{
+	font-family: Verdana,Tahoma;
+	font-size: 0.7em;
+	color: #fff;
+	text-decoration: none;
+	padding: 3px;
+	display:block;
+}
+.menu a:hover{
+	color: #f9f9f9;
+	background-color:#333;
+}
+
+.detailL{
+	text-align:right; width:170px; border-bottom:1px solid #eee;
+}
+.detailR{
+	text-align:left; width:300px; border-bottom:1px solid #eee;
+}
+.menu{
+	float: left; 
+	width:99px; 
+	border:1px solid #333;
+	border-top:0;
+	border-bottom:0;
+	border-left:0;
+}
+.menu a {height: 20%;}
+
+.left{
+	width:190px;
+	padding:5px;
+	border:1px solid #ccc;
+}
+.head{
+	padding:3px;
+	background-color:#e5e5e5;
+}
+.empty{
+	height:10px;
+}
+.grey {
+	font-family: Verdana,Tahoma;
+	font-size: 0.65em;
+	color: #333;
+	text-decoration: none;
+	padding-left: 5px;
+}
+
+.white {
+	font-family	: Verdana,Tahoma;
+	font-size: 0.65em;
+	color: #fff;
+	text-decoration: none;
+	margin:0;
+	padding:5px;
+	background-color:#999;
+	text-align:center;
+}
+.font_8d {
+	font-family: Verdana,Tahoma;
+	font-size: 0.70em;
+	color: #D10009;
+	text-decoration: none;
+	line-height:1.3em;
+}
+.font_8g {
+	font-family: Verdana,Tahoma;
+	font-size: 0.65em;
+	color: #333333;
+	text-decoration: none;
+	line-height:1.6em;
+}
+.font_8s {
+	font-family: Verdana,Tahoma;
+	font-size: 0.65em;
+	color: #000;
+	text-decoration: none;
+	line-height:1.6em;
+}
+.font_cc {
+	font-family: Verdana,Tahoma;
+	font-size: 10px;
+	color: #999;
+	text-decoration: none;
+	line-height:1.4em;
+}
+.vitL{
+	float:left;
+	padding:5px;
+	width:223px;
+	margin-top:10px;
+	border:1px solid #ccc;
+	cursor:hand;
+}
+.vitR{
+	float:right;
+	padding:5px;
+	width:223px;
+	margin-top:10px;
+	border:1px solid #ccc;
+	cursor:hand;
+}
+.FormStyle{
+	font-family: Tahoma,sans-serif; 
+	font-size: 0.75em; 
+	color: #333; 
+	background-color: #FFF; 
+	text-decoration: none; 
+	font-weight: normal ; 
+	border: #CCC 1px solid;
+}
+.ButtonStyle{
+	font-family: Tahoma,sans-serif; 
+	font-size: 11px; 
+	color: #333; 
+	background-color: #FFF; 
+	text-decoration: none; 
+	font-weight: normal ; 
+	border: #CCC 1px solid;
+}

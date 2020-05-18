@@ -1,0 +1,2 @@
+# emlak
+emkak script
